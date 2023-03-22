@@ -1,0 +1,7 @@
+FOOD and Sales Analysis Dashboard
+
+
+STEPS PERFORMED IN THIS DASHBOARD 
+1)Getting raw data from a CSV file / EXCEL file .
+2)Performing DAX operations and dax calculations (new measure ,data cleaning ,new coloumn ).
+3)Creating an interactive dashboard with different data visualization charts to help organizations know the insights of Company.
